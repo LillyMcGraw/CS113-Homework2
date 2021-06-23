@@ -24,7 +24,7 @@ public class RandomClue {
 
     /*
      * ALGORITHM:
-     *
+     * CHANGED
      * PROMPT "Which theory to test? (1, 2, 3[random]): "
      * READ answerSet
      * INSTANTIATE jack = new AssistantJack(answerSet)
